@@ -13,7 +13,7 @@ npm install
 4. Start the frontend server (in frontend directory)
 npm run dev
 5. Transfer over .env files to respective root directory (i.e. collab-service .env file should be placed in collab-service folder, etc.)
-6/. Backend Setup  (in root directory)
+6. Backend Setup  (in root directory)
 run the docker compose command in the next part (preferably in another terminal)
 
 ### Commands used to spin up the container(s)
